@@ -1,0 +1,6 @@
+Config = {}
+
+
+Config.Discord = {
+   webhookURL = ''
+}
